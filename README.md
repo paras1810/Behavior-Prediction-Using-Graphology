@@ -1,4 +1,4 @@
-# Grapholgy
+# Graphology
 
 It is the technique of predicting human behavior using certain features of ones Handwriting 
 
